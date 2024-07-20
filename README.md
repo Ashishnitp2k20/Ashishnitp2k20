@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQFaTaR-1EkYDA/profile-displaybackgroundimage-shrink_200_800/0/1586129857378?e=2147483647&v=beta&t=fxSGJnigrGGsQjIYJ1m6DA3Jz0d83a6KhfnA1dfht20)](https://github.com/Ashishnitp2k20)
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Computer Science Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
